@@ -42,12 +42,6 @@ include('helpers.php');
       <p> Ingresaste con exito. </p>
     </div>
 
-    <div class="felicitaciones alert-success">
-      <strong>¡FELICITACIONES!</strong>  <a href="#" class="alert-link"></a>
-      <br>
-      <p> Ingresaste con exito. </p>
-    </div>
-
 <button type="button" class="btn btn-default"> <a href="index.php">Volver a la página de inicio</a></button>
 
   </body>
